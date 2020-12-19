@@ -11,3 +11,7 @@
 - [x] frontbucket testing 부분 (618 strings)
 
 ![캡처2](https://user-images.githubusercontent.com/55792153/102682371-5b13d800-420c-11eb-9136-eccce8185068.PNG)
+
+- [x] 총 5413 word tanslate
+
+![캡처3](https://user-images.githubusercontent.com/55792153/102682470-189ecb00-420d-11eb-9fb9-c8dd6dfddb38.PNG)
