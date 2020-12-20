@@ -21,3 +21,10 @@
 - [x] 총 5413 word tanslate
 
 ![캡처3](https://user-images.githubusercontent.com/55792153/102682470-189ecb00-420d-11eb-9fb9-c8dd6dfddb38.PNG)
+
+
+![캡처4](https://user-images.githubusercontent.com/55792153/102712146-15393b80-4302-11eb-8d6b-a6df874e208a.PNG)
+
+![캡처5](https://user-images.githubusercontent.com/55792153/102712147-15d1d200-4302-11eb-88c7-a4864bba8e7a.PNG)
+
+bitbucket은 gitlab, github와 비슷한 깃 버전 관리 시스템이다. 주로 사용되는 용어들은 git에서 사용되는 용어들과 똑같았다. 주로 사용되는 git 버전 관리 시스템인 github와 gitlab에서의 용어들을 참고하였고, repository -> 레포지토리 pull request -> 풀 리퀘스트 등의 용어들은 bitbucket의 번역 운영자들이 기존에 이렇게 번역을 해 놓아서 이를 따라 용어를 맞추어 번역하였다.
